@@ -12,3 +12,21 @@ img {
     padding: 13px;
     margin-top: 130px;
 }
+
+.container {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    text-align: center;
+}
+
+.nome {
+    color: #fff;
+    font-size: 150px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.sobrenome {
+    font-family: 'Bebas Neue', sans-serif;
+    color: darkgoldenrod;
+}
