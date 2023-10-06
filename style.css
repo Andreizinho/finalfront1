@@ -53,3 +53,30 @@ body {
     background-color: #000;
 }
 
+.icons {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+}
+
+.icons2 {
+    position: absolute;
+    top:10%;
+    left:400%;
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+}
+
+.icons3 {
+    position: absolute;
+    top:10%;
+    left:800%;
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+}
+
