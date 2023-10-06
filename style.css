@@ -109,3 +109,15 @@ body {
     text-align: center;
     font-size: 40px;
 }
+
+ul {
+    list-style: none;
+    padding: 5;
+    margin: 0;
+    font-family: 'Montserrat';
+}
+
+li {
+    margin-left: 20px;
+    font-family: 'Montserrat';
+}
