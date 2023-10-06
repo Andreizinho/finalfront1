@@ -80,3 +80,23 @@ body {
     text-align: center;
 }
 
+.sobre a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.conhecimento a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 45px;
+}
+
+.objetivos a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 80px;
+}
